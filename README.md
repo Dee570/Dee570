@@ -20,10 +20,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <!-- GitHub Stats с приватными репо -->
-  <img align="center" width="600" src="https://github-readme-stats-kappa-wine-43.vercel.app/api?username=Dee570&theme=transparent&show_icons=true&include_private=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
-
   <p align="center">
   <img src="https://github-profile-summary-cards-red-ten.vercel.app/api/cards/profile-details?username=Dee570&theme=github" />
 </p>
