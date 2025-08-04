@@ -22,7 +22,7 @@
 
 <p align="center">
   <!-- GitHub Stats с приватными репо -->
-  <img align="center" width="400" src="https://github-readme-stats-kappa-wine-43.vercel.app/api?username=Dee570&theme=transparent&show_icons=true&include_private=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
+  <img align="center" width="600" src="https://github-readme-stats-kappa-wine-43.vercel.app/api?username=Dee570&theme=transparent&show_icons=true&include_private=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
 
 
 
