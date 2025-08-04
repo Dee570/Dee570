@@ -21,14 +21,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=whispin&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=whispin&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=dee570&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
+  <img align="center" width="400" src="https://streak-stats.demolab.com?user=dee570&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+</p>
 <br/>
 <p align="center">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=whispin&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whispin&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=dee570&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dee570&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 </p>
 
 
