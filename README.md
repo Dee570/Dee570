@@ -21,22 +21,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- github-readme-stats с приватными репо -->
-  <img align="center" width="400" src="https://github-readme-stats-kappa-wine-43.vercel.app/api?username=Dee570&theme=transparent&show_icons=true&hide_border=true&include_private=true&show=reviews&hide_title=true&hide=contribs" />
-  
-  <!-- streak-stats (приватные репо не поддерживаются) -->
+  <!-- GitHub Stats с приватными репо -->
+  <img align="center" width="400" src="https://github-readme-stats-kappa-wine-43.vercel.app/api?username=Dee570&theme=transparent&show_icons=true&include_private=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
+
+  <!-- Streak Stats -->
   <img align="center" width="400" src="https://streak-stats.demolab.com?user=Dee570&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
-  
-  <br/>
-  
-  <p align="center">
-    <!-- activity graph -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Dee570&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-    
-    <!-- top langs -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dee570&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-  </p>
 </p>
+
+<p align="center">
+  <!-- Contribution Activity Graph -->
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Dee570&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dee570&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+</p>
+
 
 
 
