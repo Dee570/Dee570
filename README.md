@@ -1,5 +1,8 @@
 # 💫 About Me:
-Passionate developer skilled in Java, Go, Node.js, Rust, and Vue<br>Always learning new technologies and best practices<br>Love building scalable backends and dynamic frontends<br>Enjoy solving complex problems and collaborating on open-source<br>Im an indie dev from ukraine
+- 💻 Passionate developer skilled in Java, Go, Node.js, Rust, and Vue
+- 🌱 Always learning new technologies and best practices
+- ⚡ Love building scalable backends and dynamic frontends
+- 🧩 Enjoy solving complex problems and collaborating on open-source
 
 
 ## 🌐 Socials:
